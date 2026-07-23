@@ -1,6 +1,5 @@
 <H3>Name:Ramya P</H3>
 <H3>Register No:212223230168</H3>
-<H3>Experiment 2 - Exact inference using Variable Elimination Method</H3>
 <H3>Date:23-7-26</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
