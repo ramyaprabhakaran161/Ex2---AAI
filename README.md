@@ -127,5 +127,5 @@ print(result2)
 
 
 ## Result :
-Thus, Bayesian Inference was successfully determined using Variable Elimination Method
+Thus, Bayesian Inference was successfully determined using Variable Elimination Method.
 
